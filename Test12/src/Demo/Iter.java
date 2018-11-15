@@ -23,8 +23,7 @@ public class Iter {
 			System.out.println(it.previous());
 		}*/
 		
-		it.r
-		System.out.println(list);
+		
 		
 		/*Integer[] arr={1,0,0,while(it.hasNext())
 		{
